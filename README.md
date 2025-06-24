@@ -4,7 +4,7 @@ A simple and secure password manager built using Python and Tkinter. This GUI ap
 
 ## Preview
 
-[Screenshot](screenshot.png) 
+![Screenshot](screenshot.png) 
 
 
 ## Features
